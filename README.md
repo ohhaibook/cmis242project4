@@ -1,2 +1,3 @@
 # cmis242project4
-UMGC CMIS 242 Project 4
+UMUC UMGC CMIS 242 Project 4
+Use as you wish
